@@ -4,7 +4,7 @@ instalar dns
 Instalar keyd --> // sudo mkdir -p /etc/keyd
 sudo nano /etc/keyd/default.conf
 //
--->
+--> >
 [ids]
 *
 
